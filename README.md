@@ -6,7 +6,7 @@ An interactive Power BI dashboard analyzing the **Spotify Global Top 50** chart 
 
 ## Dashboard Preview
 
-![Spotify Dashboard Overview](https://i.imgur.com/placeholder.png)
+![Spotify Dashboard Overview](https://github.com/user-attachments/assets/44d07d5a-dee4-433a-894e-ede9d7eb3b7e))
 
 > *Open `Spotify.pbix` in Power BI Desktop to explore all 4 interactive pages.*
 
@@ -134,6 +134,6 @@ Spotify/
 
 ---
 
-## License
+## 📬 Connect
 
-This project is for educational and portfolio purposes. Spotify data is subject to [Spotify's Terms of Service](https://www.spotify.com/legal/end-user-agreement/).
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/yash-shah-97a595175/) or raise an issue if you have suggestions or questions!
