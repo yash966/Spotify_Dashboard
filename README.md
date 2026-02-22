@@ -6,7 +6,7 @@ An interactive Power BI dashboard analyzing the **Spotify Global Top 50** chart 
 
 ## Dashboard Preview
 
-![Spotify Dashboard Overview](https://github.com/user-attachments/assets/44d07d5a-dee4-433a-894e-ede9d7eb3b7e))
+![Spotify Dashboard Overview](https://github.com/user-attachments/assets/44d07d5a-dee4-433a-894e-ede9d7eb3b7e)
 
 > *Open `Spotify.pbix` in Power BI Desktop to explore all 4 interactive pages.*
 
